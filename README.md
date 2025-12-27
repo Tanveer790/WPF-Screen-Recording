@@ -8,7 +8,7 @@ This is a desktop screen recording app built with C# and WPF.
 ## Screenshots
 
 ### Start Recording
-![Start](1(2).JPEG)
+![Start](start.JPEG)
 
 ### Stop Recording
-![Stop](2(2).JPEG)
+![Stop](stop.JPEG)
